@@ -3,8 +3,8 @@ h1{
 }
 .picture{
   /* postion: absolute; */
-  margin-top: -3%;
-  margin-left: -210%;
+  margin-top: 100px;
+  margin-left: 1000px;
 }
 
 div1 {
