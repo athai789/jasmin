@@ -1,0 +1,52 @@
+h1{
+  color: white;
+}
+.picture{
+  /* postion: absolute; */
+  margin-top: -3%;
+  margin-left: -210%;
+}
+
+div1 {
+  position: absolute;
+  top: 26%;
+  left: 43%;
+  transition: translate(-50%, -50%);
+}
+div2{
+  position: absolute;
+  top: 45%;
+  left: 40%;
+  transition: translate(-50%, -50%);
+  color: #FF749C;
+
+}
+div3{
+  postition: absolute;
+  top: 60%;
+  left: 70%
+  transition: translate(-50%, -50%);
+}
+div4{
+    postition: absolute;
+  margin-top: -20%;
+    margin-left: -100%
+    transition: translate(-50%, -50%);
+}
+div5{
+  postition: absolute;
+  top: 70%;
+  left: 90%
+  transition: translate(-50%, -50%);
+}
+div6{
+  display: inline-block;
+  margin-top: -100px;
+  margin-left: 525px;
+    transition: translate(-50%, -50%);
+}
+.banner{
+  display: inline-block;
+  margin-top: -200%;
+  margin-left: -117%;
+}
